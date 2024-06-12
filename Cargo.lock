@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "hello_cargo"
+name = "word_count"
 version = "0.1.0"
